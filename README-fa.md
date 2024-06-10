@@ -1,4 +1,4 @@
-[فارسی](https://github.com/2077DevWave/Rasm/blob/main/README-fa.md) | [EN](https://github.com/2077DevWave/Rasm/blob/main/README.md)
+فارسی | [EN](https://github.com/2077DevWave/Rasm/blob/main/README.md)
 
 # Rasm
 **کامپایل** و **اجرای** کد اسمبلی آسان‌تر از آن چیزی که فکر می‌کنید!
