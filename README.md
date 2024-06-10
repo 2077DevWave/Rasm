@@ -1,3 +1,5 @@
+[فارسی](https://github.com/2077DevWave/Rasm/blob/main/README-fa.md) | EN
+
 # Rasm
 **Compile** and **Run** assembly code easier than you think!
 
